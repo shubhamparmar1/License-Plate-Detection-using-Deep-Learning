@@ -25,7 +25,7 @@ For real-time operation, the system is set up to utilize GPU performance with CU
 
 ```bash
 git clone https://github.com/shubhamparmar1/License-Plate-Detection-using-Deep-Learning.git
-cd License-Plate-Detection-using-Deep-Learnin
+cd License-Plate-Detection-using-Deep-Learning
 ```
 2. Clone YOLOv5:
 
